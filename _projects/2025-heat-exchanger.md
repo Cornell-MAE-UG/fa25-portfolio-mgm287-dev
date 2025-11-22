@@ -21,4 +21,5 @@ In an ideal heat exchanger, the device is completely insulated with the outside 
 
 We used a heat exchanger running in parallel as a baseline. From the relation found, we would expect both parallel and counter flows to have the same ratio of delta Ts, with the change in the temperature of the cold water half of that of the hot when the hot pump is half as strong as the cold pump. However, our results don't quite match these predictions. The ratio of delta Ts for both parallel and counter flows are close to each other, but they're smaller than 1 than we predicted. With less flow, the ratio was smaller, but not as small as 0.5. We didn't know exactly what + and - on the pumps corresponded to for volumes, so our half estimate could be incorrect. Furthermore, the heat pump was heating up throughout the device, so there was heat transfer that was unaccounted for. 
 
-![table of values]({{"/assets/images/exchanger-table.jpeg" | relative_url}}){: .inline-image style="width: 200px"}
+![table of values]({{"/assets/images/exchanger-table.jpeg" | relative_url}}){: .inline-image style="width: 500px"}
+
