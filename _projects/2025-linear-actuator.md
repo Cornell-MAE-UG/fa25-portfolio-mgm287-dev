@@ -13,10 +13,7 @@ When treating the bar as rigid, I analyzed the system as a truss using the metho
 
 ![Rigid actuator design]({{"/assets/images/actuator_rigid.jpeg" | relative_url}}){: .inline-image-r style="width: 200px"}
 
-However, the rod is better treated as a beam that can bend under the forces of the actuator and weight. We'll assume that the tensile forces are negligible, the beam is prismatic, and that the weight of the beam itself is negligible to use bending analysis. To make sure the model is not statically indeterminate, we'll assume that the reactions at each connection to the ground is the same.
+Due to the nature of the weight being held at the pin at the end, the rod will not act like a bending beam. However, it is still in danger of acting like a buckling column. This will be planned with a factor of safety of 3.
 
-(pic)
+From the results above, the best option for the rod is an 80mm circular beam made of Alloy-5456-H116 Aluminum.
 
-Due to the nature of this design, bending is unlikely to be the main failure mode. Instead, buckling or tensile stress is more likely to affect it. Solving a stress balance shows that displacement=530kN*m/EA.
-
-Using tables, it seems that Alloy5456-H1116 Aluminum will be the most mass-effective option using a circular rod of 
