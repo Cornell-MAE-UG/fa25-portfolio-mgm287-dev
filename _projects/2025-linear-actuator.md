@@ -15,5 +15,7 @@ When treating the bar as rigid, I analyzed the system as a truss using the metho
 
 Due to the nature of the weight being held at the pin at the end, the rod will not act like a bending beam. However, it is still in danger of acting like a buckling column. This will be planned with a factor of safety of 3.
 
-From the results above, the best option for the rod is an 80mm circular beam made of Alloy-5456-H116 Aluminum.
+![Buckling calcs]({{"/assets/images/actuator-calcs.jpeg" | relative_url}}){: .inline-image-r style="width: 200px"}
+![Table]({{"/assets/images/actuator-table.jpeg" | relative_url}}){: .inline-image-r style="width: 200px"}
 
+From the results above, the best option for the rod is an 80mm circular beam made of Alloy-5456-H116 Aluminum.
