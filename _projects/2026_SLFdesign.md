@@ -52,6 +52,5 @@ A single one-way entrance chamber with bait inside will test whether SLF can be 
 - Pfeiffer, D.G. et al. (2022) Spotted lanternfly in virginia vineyards: Lycorma Delicatula (white)
 (Hemiptera: Fulgoridae). doi:10.21061/ento-323np.
 - Spotted lanternfly damage. Cornell CALS. (n.d.).
-https://cals.cornell.edu/integrated-pest-management/outreach-education/whats-bugging-you/spott
+https://cals.cornell.edu/integrated-pest-management/outreach-education/whats-bugging-you/spotted-lanternfly/spotted-lanternfly-damage 
 
-ed-lanternfly/spotted-lanternfly-damage 
