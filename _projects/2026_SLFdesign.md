@@ -15,8 +15,9 @@ image: [None]
 **Clients:** Cornell CALS Extension / E\&J Gallo Winery / National Grape  
 
 ## Table of Contents
-Client Proposal: []
-First Prototype: []
+Client Proposal: [https://github.com/Cornell-MAE-UG/fa25-portfolio-mgm287-dev/blob/main/_projects/2026_SLFdesign.md#client-proposal]
+First Prototype: [https://github.com/Cornell-MAE-UG/fa25-portfolio-mgm287-dev/blob/main/_projects/2026_SLFdesign.md#first-prototype]
+References: [https://github.com/Cornell-MAE-UG/fa25-portfolio-mgm287-dev/blob/main/_projects/2026_SLFdesign.md#references]
 
 # Client Proposal 
 
@@ -240,7 +241,7 @@ The fan can carry objects of mass up to 5g and diameter as small as 5mm (approxi
 Fan with bristle spacing small enough to meet above requirements can move through static bristles on the SLF platform with maximum of 2.356 N*m of torque
 The motion of the fan reliably continues for at least 30 consecutive revolutions without observed scratching or deformity to ensure that its operation is repeatable over time.
 
-## References
+# References
 - Pfeiffer, D.G. et al. (2022) Spotted lanternfly in virginia vineyards: Lycorma Delicatula (white)
 (Hemiptera: Fulgoridae). doi:10.21061/ento-323np.
 - Spotted lanternfly damage. Cornell CALS. (n.d.).
