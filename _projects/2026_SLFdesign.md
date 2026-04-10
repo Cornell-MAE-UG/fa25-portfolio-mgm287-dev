@@ -15,8 +15,8 @@ image: [None]
 **Clients:** Cornell CALS Extension / E\&J Gallo Winery / National Grape  
 
 ## Table of Contents
-Client Proposal: [https://github.com/Cornell-MAE-UG/fa25-portfolio-mgm287-dev/blob/main/_projects/2026_SLFdesign.md#client-proposal]
-First Prototype: [https://github.com/Cornell-MAE-UG/fa25-portfolio-mgm287-dev/blob/main/_projects/2026_SLFdesign.md#first-prototype]
+Client Proposal: [https://github.com/Cornell-MAE-UG/fa25-portfolio-mgm287-dev/blob/main/_projects/2026_SLFdesign.md#client-proposal]\
+First Prototype: [https://github.com/Cornell-MAE-UG/fa25-portfolio-mgm287-dev/blob/main/_projects/2026_SLFdesign.md#first-prototype]\
 References: [https://github.com/Cornell-MAE-UG/fa25-portfolio-mgm287-dev/blob/main/_projects/2026_SLFdesign.md#references]
 
 # Client Proposal 
