@@ -14,6 +14,12 @@ image: [None]
 
 **Clients:** Cornell CALS Extension / E\&J Gallo Winery / National Grape  
 
+## Table of Contents
+Client Proposal: []
+First Prototype: []
+
+# Client Proposal 
+
 ## Problem statement
 Up to 400 SLF can feed on each vine in a vineyard (Cornell CALS, n.d.) Repetitive feeding can cause up to 90% yield loss (Pfeiffer et al, 2022).
 
