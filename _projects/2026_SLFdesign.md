@@ -272,8 +272,22 @@ Evaluate how quickly SLF respond to the fan mechanism in order to determine the 
 **Success criterion 1: The fan shall carry objects as small as 5mm ( SLF-sized objects) into the slots.**
 	The purpose of this test was to determine whether the mechanism could successfully push SLF into the slots. SLF were modeled using halves of Swedish Fish, approximately 5 mm by 5 mm. Varying densities of fish were placed on the platform. After one sweep of the fan, the number of fish remaining was recorded. Average percentages are shown in the figure above. 
 	During testing, any Swedish fish remaining were either pushed off the side of the plate or into the center. Thus, future models should add walls around the platform to keep SLF contained.Some Swedish fish also managed to bypass the bristles at the exhibition, so the bristle size must be decreased.
+	
+| Initial # |	Remaining 1 |	Remaining 2	| Remaining 3	| Avg remaining	| Avg % remaining |
+| --------- |  --------- |  --------- |  --------- |  --------- |  --------- |
+| 5 |	0 |	0 |	0 |	0 |	0 |
+| 10 |	1 |	0 |	0 |	0.33 |	3.3 |
+| 15 |	1 |	0 |	1 |	0.67 |	4.5 |
+| 20 |	0 |	0 |	2 |	0.67 |	3.4 |
 **Success criterion 2: The fan shall move through static bristles on the SLF platform with maximum of 2.356 N*m of torque.**
 	The purpose of this test was to confirm that the motor could operate reliably with minimal maintenance. To simulate a maximum load condition, a Swedish Fish, which is denser than an SLF, was placed between the tines to represent an obstruction. The fan was then pulled through the tines using a force sensor, and the required torque was calculated. In all trials, the required torque was significantly lower than the motor’s maximum torque, indicating that the motor is strong enough for the expected operating conditions.
+	
+| Location | Force with fish (N) | Torque (N*m) | Slot Radius (mm) |
+| --------- | --------- | --------- | --------- |
+| Slot 1 |	14 |	0.56 |	45	|
+| Slot 2 |	35 | 1.4	| 65 |
+| Slot 3 | 28 |	1.12 |	85	|
+| Slot 4 |	15 |	0.6 |	105 |	
 **Success criterion 3: The motion of the fan reliably continues for at least 15 consecutive revolutions with the same time per revolution.**
 	Because the machine will likely remain outdoors for several days at a time, it must be able to operate reliably over time. The time for each revolution was recorded to evaluate consistency. Although there were slight variations in speed, no significant trend was observed, suggesting that the fan is well supported throughout and there is minimal binding. Additionally, there were no visible signs of wear or damage after testing.
   
