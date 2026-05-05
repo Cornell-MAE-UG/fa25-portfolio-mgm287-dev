@@ -19,8 +19,7 @@ image: ![/assets/images/ODP6_Poster.jpg]
 [First Prototype](https://github.com/Cornell-MAE-UG/fa25-portfolio-mgm287-dev/blob/main/_projects/2026_SLFdesign.md#first-prototype)\
 [Final Prototype]([https://github.com/Cornell-MAE-UG/fa25-portfolio-mgm287-dev/blob/main/_projects/2026_SLFdesign.md#final-prototype](https://github.com/Cornell-MAE-UG/fa25-portfolio-mgm287-dev/blob/main/_projects/2026_SLFdesign.md#final-prototype))\
 [References](https://github.com/Cornell-MAE-UG/fa25-portfolio-mgm287-dev/blob/main/_projects/2026_SLFdesign.md#references)
-<details>
-<Summary> Client Proposal </Summary> 
+# Client Proposal
 
 ## Problem statement
 Up to 400 SLF can feed on each vine in a vineyard (Cornell CALS, n.d.) Repetitive feeding can cause up to 90% yield loss (Pfeiffer et al, 2022).
@@ -55,10 +54,8 @@ A single one-way entrance chamber with bait inside will test whether SLF can be 
    *Decision affected:* This will also inform bait used.
 3. **What is the size and weight of the SLF at the time they enter the vineyards?**  
    *Decision affected:*We would like to choose the optimal net size.
-</details>
 
-<details> 
-<summary> First Prototype </summary> 
+# First Prototype
 	![prototype image](https://github.com/Cornell-MAE-UG/fa25-portfolio-mgm287-dev/blob/main/assets/images/Untitled%20document%20(4).jpg)
 ## Design Documentation
 | Part | Specs | Fabrication Details |
@@ -243,10 +240,8 @@ To test, we ran three different trial runs with 10 pieces of foam about the size
 The fan can carry objects of mass up to 5g and diameter as small as 5mm (approximately SLF-sized objects) into the slots.
 Fan with bristle spacing small enough to meet above requirements can move through static bristles on the SLF platform with maximum of 2.356 N*m of torque
 The motion of the fan reliably continues for at least 30 consecutive revolutions without observed scratching or deformity to ensure that its operation is repeatable over time.
-</details>
 
-<details>
-<summary> Final Protype </summary>
+# Final Prototype
 	
 ## Prototype Description and Application
 
@@ -300,9 +295,8 @@ Evaluate how quickly SLF respond to the fan mechanism in order to determine the 
 **Success criterion 3: The motion of the fan reliably continues for at least 15 consecutive revolutions with the same time per revolution.**
 	Because the machine will likely remain outdoors for several days at a time, it must be able to operate reliably over time. The time for each revolution was recorded to evaluate consistency. Although there were slight variations in speed, no significant trend was observed, suggesting that the fan is well supported throughout and there is minimal binding. Additionally, there were no visible signs of wear or damage after testing.
   [/assets/images/Untitled document (3).jpg]
-</details>
-<details>
-<summary> References </summary>
+
+# References
 - Pfeiffer, D.G. et al. (2022) Spotted lanternfly in virginia vineyards: Lycorma Delicatula (white)
 (Hemiptera: Fulgoridae). doi:10.21061/ento-323np.
 - Spotted lanternfly damage. Cornell CALS. (n.d.).
