@@ -3,7 +3,7 @@ layout: project
 title: Spotted Lanternfly Proposal
 description: Flytrap design for MAE 2250
 technologies: [None]
-image: /assets/images/ODP6_Poster.jpg
+image: ![/assets/images/ODP6_Poster.jpg]
 ---
 
 
@@ -59,7 +59,7 @@ A single one-way entrance chamber with bait inside will test whether SLF can be 
 
 <details> 
 <summary> First Prototype </summary> 
-[/assets/images/Untitled document (4).jpg]
+	![prototype image](https://github.com/Cornell-MAE-UG/fa25-portfolio-mgm287-dev/blob/main/assets/images/Untitled%20document%20(4).jpg)
 ## Design Documentation
 | Part | Specs | Fabrication Details |
 | ------------- | ------------- | ------------ |
@@ -254,19 +254,19 @@ The motion of the fan reliably continues for at least 30 consecutive revolutions
 	When the client wishes to empty out the trap, they can use the latches to open and clean out the basin. The trap can either be hung from a tree or rail using the hook on the roof, or it can be placed in an open field using the tripod setup on the bottom.
   
 **Assembly**
-Step 0. Prepare all materials.
+- Step 0. Prepare all materials.
 3D print the basin, upper and lower basins, fan, slot cover, and roof.
 Install heat-set inserts into each hole in the 3D printed components.
-Step 1. Connect the upper and lower basins by screwing the latches into the designated holes (latch space is indented for clarity). 
-Step 2-3. Assemble the electronics.
+- Step 1. Connect the upper and lower basins by screwing the latches into the designated holes (latch space is indented for clarity). 
+- Step 2-3. Assemble the electronics.
 Couple the shaft to the motor using a coupler with set screws and set it in the center of the basin.
 Press fit the switch into the rectangular hole.
 Attach the red battery wire to a motor terminal, the black battery wire to a switch terminal, and a wire between the switch and the motor. Power on and check that the motor rotates clockwise; if it doesn’t, switch motor terminals used. Solder terminals once confident in configuration.
-Step 4. Slide the slot cover on the rod to sit just above the lip of the basin. Tighten both set screws in the heat set inserts.
-Step 5. Attach the main plate using designated cutouts on the side of the basin, then screw to tighten. 
-Step 6. Attach the fan to the rod so the bristles are <1-2mm above the main plate by tightening set screws. Ensure the fan covers the area the slot cover does not!
-Step 7. Slide the roof onto the rod and screw its arms in. 
-[/assets/images/Untitled document (1).jpg]
+- Step 4. Slide the slot cover on the rod to sit just above the lip of the basin. Tighten both set screws in the heat set inserts.
+- Step 5. Attach the main plate using designated cutouts on the side of the basin, then screw to tighten. 
+- Step 6. Attach the fan to the rod so the bristles are <1-2mm above the main plate by tightening set screws. Ensure the fan covers the area the slot cover does not!
+- Step 7. Slide the roof onto the rod and screw its arms in. 
+! [/assets/images/Untitled document (1).jpg]
 
 ## Conclusion and Recommendation
 
