@@ -244,9 +244,12 @@ The fan can carry objects of mass up to 5g and diameter as small as 5mm (approxi
 Fan with bristle spacing small enough to meet above requirements can move through static bristles on the SLF platform with maximum of 2.356 N*m of torque
 The motion of the fan reliably continues for at least 30 consecutive revolutions without observed scratching or deformity to ensure that its operation is repeatable over time.
 </details>
+
 <details>
 <summary> Final Protype </summary>
+	
 ## Prototype Description and Application
+
 	The prototype is a motorized spinning trap inspired by an electronic flytrap. A bristled fan rotates around a central shaft and pushes the SLF through slots in the platform into a liquid-filled basin below. As the fan passes over the insects, bristles contain them from multiple sides, leaving the basin as the only exit path. To prevent SLF from escaping through other openings, a rotating plate beneath the platform keeps all slots covered except the one directly under the fan. Because the system is powered by a motor, the trap can operate without direct monitoring.
 	When the client wishes to empty out the trap, they can use the latches to open and clean out the basin. The trap can either be hung from a tree or rail using the hook on the roof, or it can be placed in an open field using the tripod setup on the bottom.
   
@@ -266,6 +269,7 @@ Step 7. Slide the roof onto the rod and screw its arms in.
 [/assets/images/Untitled document (1).jpg]
 
 ## Conclusion and Recommendation
+
 	The goal was to create a trap that can capture SLF without constant human monitoring. Testing showed that the bristles successfully guide objects into the slots, the motor is strong enough to push and crush SLF, and the mechanism shows minimal wear after repeated use. The prototype also remained under budget, making it a promising candidate for future field testing. 
 	Before field testing, several improvements should be made. We determined the current bristle spacing to be wide enough for smaller SLF to slip through, so reducing the spacing is recommended. A lack of rigidity in the motor mount caused the shaft to sit slightly crooked, so the area around the motor should be reinforced. Finally, future versions should be designed to run on solar power to reduce the need for battery replacement. The next phase of testing should focus on SLF behavior. Future researchers should: 
 Identify the most effective attractant, ideally one that outperforms grapes.
