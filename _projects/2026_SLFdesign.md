@@ -17,7 +17,7 @@ image: [None]
 ## Table of Contents
 [Client Proposal](https://github.com/Cornell-MAE-UG/fa25-portfolio-mgm287-dev/blob/main/_projects/2026_SLFdesign.md#client-proposal)\
 [First Prototype](https://github.com/Cornell-MAE-UG/fa25-portfolio-mgm287-dev/blob/main/_projects/2026_SLFdesign.md#first-prototype)\
-[Final Prototype](https://github.com/Cornell-MAE-UG/fa25-portfolio-mgm287-dev/blob/main/_projects/2026_SLFdesign.md#final-prototype)\
+[Final Prototype]([https://github.com/Cornell-MAE-UG/fa25-portfolio-mgm287-dev/blob/main/_projects/2026_SLFdesign.md#final-prototype](https://github.com/Cornell-MAE-UG/fa25-portfolio-mgm287-dev/blob/main/_projects/2026_SLFdesign.md#final-prototype))\
 [References](https://github.com/Cornell-MAE-UG/fa25-portfolio-mgm287-dev/blob/main/_projects/2026_SLFdesign.md#references)
 
 # Client Proposal 
