@@ -3,7 +3,7 @@ layout: project
 title: Spotted Lanternfly Proposal
 description: Flytrap design for MAE 2250
 technologies: [None]
-image: [None]
+image: /assets/images/ODP6_Poster.jpg
 ---
 
 
@@ -19,8 +19,8 @@ image: [None]
 [First Prototype](https://github.com/Cornell-MAE-UG/fa25-portfolio-mgm287-dev/blob/main/_projects/2026_SLFdesign.md#first-prototype)\
 [Final Prototype]([https://github.com/Cornell-MAE-UG/fa25-portfolio-mgm287-dev/blob/main/_projects/2026_SLFdesign.md#final-prototype](https://github.com/Cornell-MAE-UG/fa25-portfolio-mgm287-dev/blob/main/_projects/2026_SLFdesign.md#final-prototype))\
 [References](https://github.com/Cornell-MAE-UG/fa25-portfolio-mgm287-dev/blob/main/_projects/2026_SLFdesign.md#references)
-
-# Client Proposal 
+<details>
+<Summary> Client Proposal </Summary> 
 
 ## Problem statement
 Up to 400 SLF can feed on each vine in a vineyard (Cornell CALS, n.d.) Repetitive feeding can cause up to 90% yield loss (Pfeiffer et al, 2022).
@@ -55,9 +55,11 @@ A single one-way entrance chamber with bait inside will test whether SLF can be 
    *Decision affected:* This will also inform bait used.
 3. **What is the size and weight of the SLF at the time they enter the vineyards?**  
    *Decision affected:*We would like to choose the optimal net size.
+</details>
 
-# First Prototype
-
+<details> 
+<summary> First Prototype </summary> 
+[/assets/images/Untitled document (4).jpg]
 ## Design Documentation
 | Part | Specs | Fabrication Details |
 | ------------- | ------------- | ------------ |
@@ -241,8 +243,9 @@ To test, we ran three different trial runs with 10 pieces of foam about the size
 The fan can carry objects of mass up to 5g and diameter as small as 5mm (approximately SLF-sized objects) into the slots.
 Fan with bristle spacing small enough to meet above requirements can move through static bristles on the SLF platform with maximum of 2.356 N*m of torque
 The motion of the fan reliably continues for at least 30 consecutive revolutions without observed scratching or deformity to ensure that its operation is repeatable over time.
-
-# Final Prototype
+</details>
+<details>
+<summary> Final Protype </summary>
 ## Prototype Description and Application
 	The prototype is a motorized spinning trap inspired by an electronic flytrap. A bristled fan rotates around a central shaft and pushes the SLF through slots in the platform into a liquid-filled basin below. As the fan passes over the insects, bristles contain them from multiple sides, leaving the basin as the only exit path. To prevent SLF from escaping through other openings, a rotating plate beneath the platform keeps all slots covered except the one directly under the fan. Because the system is powered by a motor, the trap can operate without direct monitoring.
 	When the client wishes to empty out the trap, they can use the latches to open and clean out the basin. The trap can either be hung from a tree or rail using the hook on the roof, or it can be placed in an open field using the tripod setup on the bottom.
@@ -260,6 +263,7 @@ Step 4. Slide the slot cover on the rod to sit just above the lip of the basin. 
 Step 5. Attach the main plate using designated cutouts on the side of the basin, then screw to tighten. 
 Step 6. Attach the fan to the rod so the bristles are <1-2mm above the main plate by tightening set screws. Ensure the fan covers the area the slot cover does not!
 Step 7. Slide the roof onto the rod and screw its arms in. 
+[/assets/images/Untitled document (1).jpg]
 
 ## Conclusion and Recommendation
 	The goal was to create a trap that can capture SLF without constant human monitoring. Testing showed that the bristles successfully guide objects into the slots, the motor is strong enough to push and crush SLF, and the mechanism shows minimal wear after repeated use. The prototype also remained under budget, making it a promising candidate for future field testing. 
@@ -279,6 +283,7 @@ Evaluate how quickly SLF respond to the fan mechanism in order to determine the 
 | 10 |	1 |	0 |	0 |	0.33 |	3.3 |
 | 15 |	1 |	0 |	1 |	0.67 |	4.5 |
 | 20 |	0 |	0 |	2 |	0.67 |	3.4 |
+[/assets/images/Untitled document (2).jpg]
 **Success criterion 2: The fan shall move through static bristles on the SLF platform with maximum of 2.356 N*m of torque.**
 	The purpose of this test was to confirm that the motor could operate reliably with minimal maintenance. To simulate a maximum load condition, a Swedish Fish, which is denser than an SLF, was placed between the tines to represent an obstruction. The fan was then pulled through the tines using a force sensor, and the required torque was calculated. In all trials, the required torque was significantly lower than the motor’s maximum torque, indicating that the motor is strong enough for the expected operating conditions.
 	
@@ -290,10 +295,13 @@ Evaluate how quickly SLF respond to the fan mechanism in order to determine the 
 | Slot 4 |	15 |	0.6 |	105 |	
 **Success criterion 3: The motion of the fan reliably continues for at least 15 consecutive revolutions with the same time per revolution.**
 	Because the machine will likely remain outdoors for several days at a time, it must be able to operate reliably over time. The time for each revolution was recorded to evaluate consistency. Although there were slight variations in speed, no significant trend was observed, suggesting that the fan is well supported throughout and there is minimal binding. Additionally, there were no visible signs of wear or damage after testing.
-  
-# References
+  [/assets/images/Untitled document (3).jpg]
+</details>
+<details>
+<summary> References </summary>
 - Pfeiffer, D.G. et al. (2022) Spotted lanternfly in virginia vineyards: Lycorma Delicatula (white)
 (Hemiptera: Fulgoridae). doi:10.21061/ento-323np.
 - Spotted lanternfly damage. Cornell CALS. (n.d.).
 https://cals.cornell.edu/integrated-pest-management/outreach-education/whats-bugging-you/spotted-lanternfly/spotted-lanternfly-damage 
+</details>
 
